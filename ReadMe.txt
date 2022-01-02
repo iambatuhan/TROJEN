@@ -1,0 +1,1 @@
+Client kısmında PYNPUT kütüphanesini inmek zorunludur.Aksi takdirde çalışmaz.Client kısmını cmd ekranında çalıştırmak isterseniz güvenlik duvarını kapatmanız gerekmektedir.
